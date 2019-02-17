@@ -1,2 +1,5 @@
+#ignore the files in this folder
 .ipynb_checkpoints/
-Mountain Bike and Road Bike Classifier Instructions.pdf
+
+#ignore the files
+.pdf
