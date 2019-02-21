@@ -20,13 +20,12 @@ The folder directory for the dataset as follows:
         ├───mountain_bikes
         └───road_bikes
         
-
-|_____classifier_data  
-|    |_____test  
-|    │     |____bikes  
-     |_____training
-           |____mountain_bikes
-           |____road_bikes
-
-
+```bash
+├── classifier_data
+│   ├── test
+│   │   ├── bikes
+│   ├── training
+│   │   ├── mountain_bikes
+|   |   ├── road_bikes
+```
 
