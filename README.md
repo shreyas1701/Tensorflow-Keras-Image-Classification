@@ -13,10 +13,11 @@ which is developed using TensorFlow.
 
 The folder directory for the dataset as follows:
 
-└───classifier_data  
-    ├───test  
-    │   └───bikes  
-    └───training  
-        ├───mountain_bikes  
-        └───road_bikes   
+└───classifier_data
+    ├───test
+    │   └───bikes
+    └───training
+        ├───mountain_bikes
+        └───road_bikes
+
 
