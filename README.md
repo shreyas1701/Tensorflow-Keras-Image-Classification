@@ -21,5 +21,6 @@ The folder directory for the dataset as follows:
 │   ├── training
 │   │   ├── mountain_bikes
 |   |   └── road_bikes
+└──
 ```
 
