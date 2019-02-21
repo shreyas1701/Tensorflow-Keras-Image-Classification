@@ -21,12 +21,12 @@ The folder directory for the dataset as follows:
         └───road_bikes
         
 
-|___classifier_data  
-    |___test  
-    │   |___bikes  
-    └───training
-        ├───mountain_bikes
-        └───road_bikes
+|_______classifier_data  
+|    |_____test  
+|    │   |___bikes  
+     |_____training
+         |___mountain_bikes
+         |___road_bikes
 
 
 
