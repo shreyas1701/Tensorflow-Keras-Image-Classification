@@ -1,5 +1,6 @@
 #ignore the files in this folder
 .ipynb_checkpoints/
+classifier_data/
 
 #ignore the files
 *.pdf
